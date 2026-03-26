@@ -1,27 +1,155 @@
-# 💫 About Me:
-💥 Full Stack Developer from Cairo, Egypt<br>⚙️ Next.js + Nest.js focused<br>🧠 Exploring Python & GraphQL<br>🎯 Clean & scalable code
+<div align="center">
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&color=00FF99&center=true&vCenter=true&width=520&lines=⚡+Mohamed+Kamal+⚡;Full+Stack+Developer;Next.js+⚛️+%2B+Nest.js+🚀" />
+</h1>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-kamal-b65136325">
+    <img src="https://img.shields.io/badge/LinkedIn-00ff99?style=flat&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://www.facebook.com/mohamed.kamal.52286">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mohamedkamal3290">
+    <img src="https://img.shields.io/badge/Instagram-ee00ff?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+
+</p>
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1CFFfZhoD8/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohamedkamal3290?igsh=ZDV1ZGNuMDQ0Y2Q1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamed-kamal-b65136325) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m7maaa82@gmail.com) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedKamal100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohamedKamal100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedKamal100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedKamal100&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohamedKamal100&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohamedKamal100&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+💥 Full Stack Developer from <b>Cairo, Egypt</b><br/>
+⚙️ Next.js + Nest.js focused<br/>
+🧠 Exploring Python & GraphQL<br/>
+🎯 Clean & scalable code
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,redux" height="25" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,mongodb" height="25" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" height="25" />
+</p>
+
+---
+
+<h2 align="center">⚡ Skills Overview</h2>
+<p align="center">
+<table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <p align="center">
+
+<table align="center" style="text-align:center; border-collapse: collapse; width:80%;">
+  <tr style="background-color:#1f2937; color:#00FF99;">
+    <th style="padding:10px; border:1px solid #00FF99;">🧠 Frontend</th>
+    <th style="padding:10px; border:1px solid #00FF99;">🚀 Level</th>
+    <th style="padding:10px; border:1px solid #00FF99;">⚙️ Backend & Tools</th>
+    <th style="padding:10px; border:1px solid #00FF99;">💥 Level</th>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">HTML5</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Nest.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 85%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">CSS3</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Node.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">JavaScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">MongoDB</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 80%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">TypeScript</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 85%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">GraphQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">React.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Socket.IO</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Next.js</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 90%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">PostgreSQL</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩 70%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Tailwind CSS</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩 80%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Docker</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨🟨 50%</td>
+  </tr>
+
+  <tr style="background-color:#111827; color:#fff;">
+    <td style="padding:8px; border:1px solid #00FF99;">Redux</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Python 🐍</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟨🟨🟨🟨 40%</td>
+  </tr>
+
+  <tr>
+    <td style="padding:8px; border:1px solid #00FF99;">Material UI</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩 75%</td>
+    <td style="padding:8px; border:1px solid #00FF99;">Git & GitHub</td>
+    <td style="padding:8px; border:1px solid #00FF99;">🟩🟩🟩🟩🟩🟩🟩🟩 95%</td>
+  </tr>
+
+</table>
+
+<!-- نفس الجدول القديم بدون أي تعديل -->
+</table>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Profile</h2>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedKamal100&theme=tokyonight" width="250" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedKamal100&theme=tokyonight" width="250" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedKamal100&theme=tokyonight" width="250" height="180" />
+</p>
+
+
+---
+
+<h2 align="center">👁️ Visitors</h2>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedKamal100.MohamedKamal100" />
+</p>
+
+---
+
+<h2 align="center">☕ Fun Facts About Me</h2>
+<p align="center">
+🎧 Coding to the rhythm of Lo-fi beats<br/>
+☕ Coffee is my secret superpower<br/>
+💡 Ideas hit me like lightning ⚡<br/>
+🌌 Dreaming in code, algorithms & APIs<br/>
+🚀 Always building, learning & leveling up
+</p>
