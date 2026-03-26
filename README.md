@@ -14,7 +14,9 @@
   <a href="https://www.instagram.com/mohamedkamal3290">
     <img src="https://img.shields.io/badge/Instagram-ee00ff?style=flat&logo=instagram&logoColor=white"/>
   </a>
-
+ <a href="mailto:m7maaa82@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ff0066?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 
